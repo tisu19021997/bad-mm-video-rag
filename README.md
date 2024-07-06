@@ -1,4 +1,4 @@
-# Multimodal Youtube QA
+# Multimodal Video/Youtube QA
 
 Youtube or Video -> Transcription + Frames -> Text embeddings + Image embeddings -> VectorDB -> RAG with image + text.
 
